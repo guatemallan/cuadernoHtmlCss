@@ -2,7 +2,8 @@
 
 Refresco HTML, aprendizaje de CSS.
 
-Este cuaderno solía ser mas amplio, se dividó en varios para simplificar y ordenar.
+Este entrenamiento es parte de los cursos [*Especialista en Java - Desde cero a Master*](
+https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/40297082#overview) y [*JavaScript - De cero a experto*](https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap/learn/lecture/40314964#overview), y han sido tomados con el instructor de [Global Mentoring](http://globalmentoring.com.mx) a través de [Udemy](https://www.udemy.com/). 
 
 ## RUTA:
 

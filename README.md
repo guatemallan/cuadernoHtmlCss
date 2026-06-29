@@ -7,9 +7,11 @@ https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-
 
 ## RUTA:
 
-{ [HTML](#html) → [CSS](#css) → [JavaScript](https://github.com/guatemallan/cuadernoJS) → React(TBD) }
-
-Java(TBD) ⤶ ⤷ IA(TBD)
+{ [HTML](https://github.com/guatemallan/cuadernoHtmlCss/) → [CSS](https://github.com/guatemallan/cuadernoHtmlCss/) → [JavaScript](#contenidos-javascript) → [TypeScript](#contenidos-typescript) }  
+ ↓  
+{ Angular ↔ [React](https://github.com/guatemallan/cuadernoReact) }
+ ↓  
+{ Linux ↔ Dockers ↔ iA } { Java }  
 
 ## HTML
 
